@@ -1,6 +1,6 @@
 {
   "name": "@bjoggis/css",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Css library that contains common css styling for bjoggis projects",
   "main": "index.css",
   "scripts": {

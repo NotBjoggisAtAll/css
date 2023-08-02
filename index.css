@@ -8,34 +8,6 @@
   font-weight: normal;
 }
 
-a {
-  text-decoration: none;
-  color: var(--color-text);
-  transition: 0.4s;
-}
-
-@media (hover: hover) {
-  a:hover {
-    background-color: var(--color-background-soft);
-  }
-}
-
-.router-link {
-  background-color: var(--color-background-mute);
-  padding: 0.5rem;
-  margin-top: 0.5rem;
-
-  color: var(--color-text);
-}
-
-.router-link-exact-active {
-  background-color: var(--color-active);
-}
-
-.router-link:hover {
-  background-color: var(--color-hover);
-}
-
 .btn {
   background-color: var(--color-background-soft);
   color: var(--color-text);
